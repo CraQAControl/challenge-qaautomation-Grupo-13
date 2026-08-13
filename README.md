@@ -37,6 +37,14 @@ cypress/
 - **support/commands.js**: contiene Custom Commands reutilizables.
   
 
+## Mi participación
+- Diseño y documentación de casos de prueba manuales.
+- Automatización de pruebas con Cypress, incluyendo fixtures y Custom Commands.
+- Ejecución y validación de pruebas.
+- Identificación, documentación y seguimiento de bugs en Trello.
+- Trabajo colaborativo mediante Git/GitHub, ramas, commits y Pull Requests.
+
+
 ## Enlaces
 
 ### Casos de prueba
